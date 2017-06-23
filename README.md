@@ -1,7 +1,6 @@
 Stylish - Baidu MD V1 (Chrome Extension)
+（ Material Design ）
 ==========
-（With Material Design）
-----
 
 
 缘起
