@@ -1,8 +1,9 @@
-/*========= Public ========= */
+/*---------æœªå®Œå…¨æ ‡æ³¨ï¼ŒåŠŸèƒ½å—ä»£ç åˆ†æ•£æœªç»Ÿä¸€ä½ç½®ä¹¦å†™--------*/
 * {
      line-height: 20px
 }
-/*------------¼ä¸ô--*/
+
+/*------------ä¿®æ­£å…ƒç´ é—´é—´éš”------------*/
 
 .t,
 span.m,
@@ -36,11 +37,9 @@ div.c-border,
      margin-left: 7px;
      width: 70%
 }
-/*---------------------------¶¯»­----------------*/
 
+/*----------------åŠ¨ç”»----------------*/
 
-
-/*-----------------------------------*/
 
 * {
                font-family: -apple-system, "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "PingFang SC", "Hiragino Sans GB", "Source Han Sans CN", "Source Han Sans SC", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
@@ -61,7 +60,7 @@ div.c-border,
                /* Firefox 4 */
                
                -webkit-transition: all 0.4s ease;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 0.4s ease;
                /* Opera */
@@ -74,7 +73,7 @@ div.c-border,
                /* Firefox 4 */
                
                -webkit-transition: all 0.4s ease;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 0.4s ease;
                /* Opera */
@@ -215,7 +214,7 @@ a {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -235,7 +234,7 @@ a {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -249,7 +248,7 @@ a {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -306,7 +305,8 @@ em {
                height: 70px;
                padding-top: 150px;
 }
-/*-----------------ËÑË÷¿ò------------------------*/
+
+/*-----------------æœç´¢æ¡†-------------------*/
 #lg img {
                display: none;
 }
@@ -332,7 +332,7 @@ em {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -358,7 +358,7 @@ em {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -372,7 +372,7 @@ em {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -399,7 +399,7 @@ em {
                
                -webkit-transition: all 300ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -420,7 +420,7 @@ em {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -451,7 +451,7 @@ em {
                
                -webkit-transition: all 300ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 300ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -472,7 +472,7 @@ em {
                
                -webkit-transition: all 350ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 350ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -493,7 +493,7 @@ em {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -552,6 +552,7 @@ em {
                height: 33px;
                margin-top: 9px;
 }
+
 /*----------------------------------------------*/
 
 #result_logo img {
@@ -579,7 +580,7 @@ em {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -594,7 +595,7 @@ em {
                
                -webkit-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -610,7 +611,7 @@ em {
                
                -webkit-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -627,7 +628,7 @@ em {
                
                -webkit-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -644,7 +645,7 @@ em {
                
                -webkit-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -666,7 +667,7 @@ em {
                
                -webkit-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -680,7 +681,7 @@ em {
                
                -webkit-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -694,7 +695,7 @@ em {
                
                -webkit-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -712,7 +713,7 @@ em {
                
                -webkit-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -727,7 +728,7 @@ em {
                
                -webkit-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -746,7 +747,7 @@ em {
                
                -webkit-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -760,7 +761,7 @@ em {
                
                -webkit-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -795,7 +796,7 @@ em {
                /* Firefox 4 */
                
                -webkit-transition: all 0.3s ease;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 0.3s ease;
                /* Opera */
@@ -809,7 +810,7 @@ em {
                /* Firefox 4 */
                
                -webkit-transition: all 0.3s ease;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 0.3s ease;
                /* Opera */
@@ -845,7 +846,8 @@ em {
                z-index: 8888 !important;
 }
 
-/*------ÉèÖÃÑ¡Ïî¹ý¶ÉÐ§¹û--------*/
+/*------è®¾ç½®é€‰é¡¹è¿‡æ¸¡æ•ˆæžœ--------*/
+
 .bdpfmenu a:hover {
                transition: all 250ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                -moz-transition: all 250ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
@@ -861,7 +863,7 @@ em {
               
 }
 
-/*-------Í¨ÖªÐ¡¼ýÍ·----------*/
+/*-------é€šçŸ¥å°ç®­å¤´----------*/
 /*
 .bdnuarrow {
                display: none !important;
@@ -914,7 +916,7 @@ em {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -928,7 +930,7 @@ em {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -943,7 +945,7 @@ em {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -968,7 +970,7 @@ em {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -1047,7 +1049,7 @@ em {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -1064,7 +1066,7 @@ em {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -1079,7 +1081,7 @@ em {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -1095,7 +1097,7 @@ em {
                /* Firefox 4 */
                
                -webkit-transition: all 0.3s ease;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 0.3s ease;
                /* Opera */
@@ -1113,7 +1115,7 @@ em {
                /* Firefox 4 */
                
                -webkit-transition: all 0.3s ease;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 0.3s ease;
                /* Opera */
@@ -1130,6 +1132,10 @@ em {
 #wrapper .bdbri {
                z-index: 2;
 }
+
+
+/*-------------é¡¶éƒ¨ä¿¡æ¯è®¾ç½®æ -------------*/
+
 #u_sp .s_bri {
                padding: 5px;
                border-radius: 50%;
@@ -1147,7 +1153,7 @@ em {
                
                -webkit-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
                ;
@@ -1172,7 +1178,7 @@ em {
                /* Firefox 4 */
                
                -webkit-transition: all 0.3s ease;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 0.3s ease;
                /* Opera */
@@ -1223,7 +1229,7 @@ em {
                /* Firefox 4 */
                
                -webkit-transition: all 0.2s ease;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 0.2s ease;
                /* Opera */
@@ -1298,7 +1304,7 @@ em {
                /* Firefox 4 */
                
                -webkit-transition: all 0.3s ease;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 0.3s ease;
                /* Opera */
@@ -1339,7 +1345,7 @@ em {
                /* Firefox 4 */
                
                -webkit-transition: all 0.3s ease;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 0.3s ease;
                /* Opera */
@@ -1350,7 +1356,7 @@ em {
                /* Firefox 4 */
                
                -webkit-transition: all 0.3s ease;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 0.3s ease;
                /* Opera */
@@ -1369,7 +1375,7 @@ em {
                /* Firefox 4 */
                
                -webkit-transition: all 0.3s ease;
-               /* Safari ºÍ Chrome */
+               /* Safari å’Œ Chrome */
                
                -o-transition: all 0.3s ease;
                /* Opera */
@@ -1384,9 +1390,12 @@ em {
 #bds-message-wrapper {
                top: 64px;
 }
-/*----ÏûÏ¢ÉèÖÃÎ»ÖÃ¾ÀÕý---*/
+
+/*-------æ¶ˆæ¯è®¾ç½®------*/
 #s_hasmsg_setting a{margin:4px auto;
 }
+
+
 .s-mod-msg {
                box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 10px, rgba(0, 0, 0, 0.12) 0px 3px 10px !important;
                -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 10px, rgba(0, 0, 0, 0.12) 0px 3px 10px !important;
@@ -1514,7 +1523,7 @@ a[soft_id] {
 }
 
 .op-soft-btnbox a:before {
-    content: "Ã»ÓÐÁ÷Ã¥µÄ";
+    content: "æ²¡æœ‰æµæ°“çš„";
 }
 
 #kw{
@@ -1555,7 +1564,7 @@ a[soft_id] {
 visibility: hidden;
 }
 
-/*========= Light Mode ========= */
+/*========= some hover ========= */
 
 a {
                color: #4879BD;
@@ -1597,7 +1606,9 @@ h3 a:hover {
 #rs a:hover {
      border-bottom: #4879BD 1.2px solid;
 }
-/*ÀÁ¼ÓÔØ--ÎªÄúÍÆ¼ö*/
+
+/*----------æ‡’åŠ è½½--ä¸ºæ‚¨æŽ¨è----------*/
+
 .hint_toprq_tips_items a:hover {
                border-bottom: #4879BD 1.2px solid;
 }
@@ -1610,13 +1621,13 @@ em {
 }
 
 
-/*Ò³Ãæ±³¾°*/
+/*--------é¡µé¢èƒŒæ™¯--------*/
 body {
                background-color: #F7F7F7;
 }
 
 
-/*ÊäÈë¿ò*/
+/*----------è¾“å…¥æ¡†---------*/
 .s_ipt_wr {
                background-color: #FFF !important;               
                background: #FFF;   
@@ -1636,14 +1647,12 @@ body {
                background-color: #fff !important;
 }
 
-
-/*°´Å¥*/
 .s_btn {
                background-color: rgba(0, 0, 0, 0);
 }
 
 
-/*Í·²¿*/
+/*---------------å¤´éƒ¨--------------*/
 #head {
                background-color: #f1f1f1;
 }
@@ -1662,7 +1671,7 @@ body {
 }
 
 
-/*·ÖÀà±êÇ©*/
+/*----------åˆ†ç±»æ ‡ç­¾----------*/
 .c-tabs-nav {
                background-color: #EEEEEE;
 }
@@ -1674,7 +1683,7 @@ body {
 }
 
 
-/*Ò³Âë*/
+/*---------------é¡µç -------------*/
 #page a{
 	           background: #fff;
 	           color: #424242;
@@ -1701,7 +1710,7 @@ body {
                background-color: #e0e0e0;
 }
 
-/*--------Ò³Âë¾ÓÖÐ--------------*/
+/*--------------é¡µç å±…ä¸­--------------*/
 
 #page { margin:15px auto;width:500px;height:25px;padding-top:20px;padding-left:0px;
 }
@@ -1798,7 +1807,7 @@ body {
 }
 
 
-/* icons*/
+/* ------------icons-------------*/
 #lg {
                background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxOS4yLjEsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0i5bGCXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMjU5IDExNiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMjU5IDExNjsiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4NCgkuc3Qwe2ZpbGw6IzQyODVGNDt9DQoJLnN0MXtmaWxsOiNFQTQzMzU7fQ0KCS5zdDJ7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+DQo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTI4LjIsNzdjLTUuNCwwLjQtNS42LDMuNy04LjEsNi43Yy0yLjUsMy4xLTcuNyw1LjgtOC40LDkuNWMtMC44LDQuNywxLjgsNy4yLDQuMyw4YzIuNywwLjksOC44LTAuNywxMS45LTAuNw0KCWgwLjNoMC4zYzMuMSwwLDkuMSwxLjYsMTEuOSwwLjdjMi41LTAuOSw0LjktNC41LDQuMy04Yy0wLjUtMy02LjItNi40LTguNy05LjVDMTMzLjYsODAuNywxMzMuNyw3Ny40LDEyOC4yLDc3eiBNMTA5LjMsNzYuMw0KCWMwLDMuNCwyLjIsNi4xLDQuOCw2LjFjMi43LDAsNC44LTIuNyw0LjgtNi4xcy0yLjItNi4xLTQuOC02LjFTMTA5LjMsNzMsMTA5LjMsNzYuM3ogTTExOSw2Ny41YzAsMy41LDIuMSw2LjQsNC42LDYuNA0KCWMyLjYsMCw0LjctMi45LDQuNy02LjRzLTIuMS02LjQtNC43LTYuNEMxMjEsNjEsMTE5LDYzLjksMTE5LDY3LjV6IE0xMzAuNyw2Ny40YzAsMy4zLDIsNiw0LjUsNnM0LjUtMi43LDQuNS02YzAtMy4zLTItNi00LjUtNg0KCVMxMzAuNyw2NC4xLDEzMC43LDY3LjR6IE0xMzguMiw3Ny44YzAsMy4zLDIuMSw2LDQuNiw2YzIuNiwwLDQuNy0yLjcsNC43LTZjMC0zLjMtMi4xLTYtNC43LTZDMTQwLjIsNzEuOCwxMzguMiw3NC41LDEzOC4yLDc3Ljh6Ig0KCS8+DQo8cGF0aCBjbGFzcz0ic3QxIiBkPSJNNjIuOCw5OC4yVjkxaDljMi4yLDAsMi4zLDAuNCwyLjMsMi44djJjMCwyLjMtMy4yLDIuNS01LjUsMi41aC01LjhWOTguMnogTTYyLjgsODcuOFY4MWg1LjgNCgljMi4zLDAsNS41LDAsNS41LDN2MC4xYzAsMi0wLjcsMy43LTIuNSwzLjdDNzEuNiw4Ny44LDYyLjgsODcuOCw2Mi44LDg3Ljh6IE01OS41LDc3Ljl2MjNoOS4xYzQuMywwLDguNywwLDguNy01LjF2LTEuNQ0KCWMwLTIuMy0wLjItMy44LTEuNS00LjljMS40LTEuMSwxLjUtMy4yLDEuNS01LjFsMCwwYzAtNi4zLTQuNS02LjMtOC43LTYuM0w1OS41LDc3LjlMNTkuNSw3Ny45eiIvPg0KPHBhdGggY2xhc3M9InN0MSIgZD0iTTkyLjQsOTYuMWMtMS41LDEuNi00LjYsMS44LTQuOSwxLjhjLTEuOSwwLTMuOC0wLjctMy44LTIuOWMwLTIsMC43LTMuMywyLjktMy4zYzEuOCwwLDQsMC4yLDUuOCwwLjhWOTYuMXoNCgkgTTg3LjMsMTAwLjljMC41LDAsMy4zLTAuMiw1LjItMS4zbDAuMywxaDIuOVY4OGMwLTUuMS0zLjItNy4xLTgtNy4xYy0yLjUsMC02LjEsMS02LjYsMS4ybDAuNiwzLjJjMi4yLTAuOCw0LjItMC45LDUuOS0wLjkNCgljMi42LDAsNC42LDAuOSw0LjYsMy43djEuMWMtMS40LTAuNS0zLjQtMC45LTUuOC0wLjljLTQuMiwwLTYuMywyLjMtNi4zLDYuNkM4MC4zLDEwMC4zLDg0LjcsMTAwLjksODcuMywxMDAuOXoiLz4NCjxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik05OS43LDc4LjFjMCwwLjksMC45LDEuNywxLjgsMS43YzEuMSwwLDEuOS0wLjgsMS45LTEuN2MwLTEtMC44LTEuOC0xLjktMS44QzEwMC42LDc2LjMsOTkuNyw3Nyw5OS43LDc4LjF6DQoJIE05OS45LDEwMC42aDMuNFY4MS41aC0zLjRWMTAwLjZ6Ii8+DQo8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMTU3LjYsODYuNmgxMS44YzAuNSwwLjEsMC44LDAuNCwwLjksMXYzLjZoLTEzLjd2LTMuNkMxNTYuNyw4NywxNTcsODYuNywxNTcuNiw4Ni42eiBNMTU3LjYsOTguNA0KCWMtMC42LDAtMC45LTAuNC0xLTEuMXYtMy42aDEzLjd2My43YzAsMC42LTAuMywxLTAuOSwxSDE1Ny42eiBNMTYwLjksODAuN2MtMC4xLDAuNS0wLjIsMS4zLTAuNSwyLjRjLTAuMSwwLjQtMC4xLDAuNy0wLjIsMWgtMy43DQoJYy0xLjgsMC4xLTIuNywxLjEtMi44LDIuOFY5OGMwLjEsMS42LDEuMSwyLjUsMi44LDIuN2gxNC4xYzEuNy0wLjEsMi42LTEsMi43LTIuNVY4N2MtMC4xLTEuOC0xLTIuNy0yLjctMi45aC03DQoJYzAuMS0wLjQsMC4yLTEuMSwwLjQtMmMwLjEtMC42LDAuMS0xLDAuMi0xLjNoMTAuMnYtMi42aC0yMi4ydjIuNkwxNjAuOSw4MC43TDE2MC45LDgwLjd6Ii8+DQo8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMTg5LjQsODcuNGMtMC41LTAuMS0wLjctMC4zLTAuNy0wLjd2LTAuOWg0LjV2MC45Yy0wLjEsMC40LTAuMywwLjYtMC43LDAuN0gxODkuNHogTTE5My40LDg5LjQNCgljMS41LTAuMSwyLjItMC43LDIuMy0yVjg2aDMuMnYtMi4xaC0zLjJ2LTEuNmgtMi41djEuNmgtNC41di0xLjZoLTIuNnYxLjZoLTMuMlY4NmgzLjJ2MS40YzAuMSwxLjMsMC44LDIsMi4yLDJIMTkzLjR6IE0xOTAuOSw5OC4zDQoJYzIuMywxLjEsNC44LDEuOSw3LjYsMi42bDEuMi0yLjRjLTItMC4zLTQuMS0wLjgtNi4yLTEuNmMxLjUtMS4xLDIuOC0yLjIsMy44LTMuNWMwLjQtMC42LDAuNS0xLjIsMC4zLTEuOWMtMC40LTAuOC0xLjEtMS4yLTItMS4yDQoJaC0xMi43djIuMWgxMC44YzAuMywwLDAuNSwwLjEsMC42LDAuMnMwLDAuMi0wLjIsMC40Yy0wLjksMC45LTIsMS44LTMuMywyLjZjLTEuNy0xLTIuOS0xLjktMy40LTIuNmgtMy4xYzEuMiwxLjQsMi42LDIuNyw0LjEsMy44DQoJYy0yLjMsMC45LTQuNiwxLjUtNi45LDEuOGwxLjMsMi4yQzE4NS45LDEwMC4yLDE4OC42LDk5LjMsMTkwLjksOTguM3ogTTE4MS43LDkwLjl2LTguNWMwLjEtMC44LDAuNC0xLjIsMS4xLTEuM2gxNi43di0yLjNoLTguMw0KCWMtMC4xLTAuMi0zLjEtMC4xLTMuMSwwaC02LjdjLTEuNSwwLjItMi40LDEuMy0yLjUsMy4xdjguN2MwLjEsMy0wLjUsNi4yLTEuNiw5LjRsMi43LDAuOEMxODEuMSw5Ny42LDE4MS43LDk0LjMsMTgxLjcsOTAuOXoiLz4NCjxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0xMjIuNSw4OS41YzAuOCwwLDEuNywwLjIsMi40LDAuNXY0LjhjMCwwLjQtMC45LDEuNC0yLjcsMS40Yy0yLjEsMC0yLjYtMC45LTIuNi0yLjl2LTAuOA0KCUMxMTkuNSw5MC40LDEyMC4yLDg5LjUsMTIyLjUsODkuNXogTTEyNi42LDg0LjZoLTEuN3YzLjVjLTAuNi0wLjItMS41LTAuMy0yLjQtMC4zYy0zLjgsMC00LjYsMS40LTQuNiw0Ljl2MC40DQoJYzAsMy40LDEuMyw0LjYsNC41LDQuNmMxLjEsMCwxLjktMC4yLDIuNi0wLjdsMC4yLDAuOGgxLjVMMTI2LjYsODQuNkwxMjYuNiw4NC42eiIvPg0KPHBhdGggY2xhc3M9InN0MiIgZD0iTTEzNy4xLDg3LjhoLTEuN3Y3LjRjLTAuOSwwLjUtMi40LDAuOC0zLjQsMC44Yy0xLjEsMC0xLjQtMC42LTEuNC0xLjl2LTYuNUgxMjl2Ni44YzAsMi4zLDAuNywzLjIsMi45LDMuMg0KCWMxLjQsMCwyLjktMC40LDMuNi0wLjhsMC4xLDAuOGgxLjVWODcuOHoiLz4NCjxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik0xODcuOSw3Ny41YzAtMSwwLjgtMS44LDEuNy0xLjhzMS43LDAuOCwxLjcsMS44cy0wLjgsMS44LTEuNywxLjhDMTg4LjcsNzkuMiwxODcuOSw3OC40LDE4Ny45LDc3LjV6Ii8+DQo8L3N2Zz4NCg==);
 }
@@ -1844,7 +1853,7 @@ body {
 
 
 
-/*========= Ad Block ========= */
+/*========= hover ========= */
 
 div[style*="visibility:visible"] {
     display: none !important;
@@ -2038,7 +2047,8 @@ h3 a {
                padding-top: 3px;
                border-radius: 2px;
 }
-/*Background Empty*/
+
+
 
 /*-----------------------------------------*/
 
@@ -2088,7 +2098,8 @@ em {
      width: 175px;
      line-height: 25px;
 }
-/*-----------¾ÓÖÐÏà¹ØËÑË÷------------*/
+
+/*-----------å±…ä¸­ç›¸å…³æœç´¢------------*/
 #rs {
      background: rgba(195, 195, 195, 0.16);
      border-radius: 5px;
@@ -2118,12 +2129,13 @@ a {
 .op-tieba-general-main-col {
      line-height: 30px;
 }
-/* Ã¿¸öËÑË÷½á¹û¼ä¾à */
 
 
 
-/*------------------------------------------------------*/
-/*²¼¾ÖÀ­¿í*/
+
+
+/*----------------------æœç´¢ç»“æžœå¸ƒå±€æ‹‰å®½--------------------*/
+
 
 div#content_left,
 div#content_left>div {
@@ -2159,17 +2171,19 @@ div.hint_toprq_tips {
 .search_tool {
      margin-right: 5px
 }
-/*ËÑË÷½á¹ûÓÅ»¯*/
+
+/*------------æœç´¢ç»“æžœæ˜¾ç¤ºä¼˜åŒ–-----------*/
 
 div.op_baikeperson_container>:nth-child(1) {
      width: auto!important;
 }
-/*ËÑË÷½á¹ûÐüÍ£*/
+
+
 
 div#content_left>:hover {
      background-color: #EBEBEB!important;
 }
-/*ËÑË÷½á¹ûÎÄ×Ö¸ü´ó*/
+
 
 h3.t {
      font-size: 18px!important;
