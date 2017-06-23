@@ -24,13 +24,13 @@ Chrome内核浏览器安装（Chrome 浏览器 | 搜狗，QQ，360 浏览器）
 
 2. 把 .crx 文件鼠标右键拖进浏览器窗口，在弹出窗口选择 “ 安装 ” 即可完成！
 
-3.打开 https://userstyles.org/styles/144386/baidu-md ，点击 Install Style 即可
+3. 打开 https://userstyles.org/styles/144386/baidu-md ，点击  `Install Style` 即可
 
 更新日志
 -------
 `2017-06-22`
 
-V1
+V 0.1
 
 * 主页面背景及色调修改为灰色.
 
