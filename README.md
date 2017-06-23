@@ -9,11 +9,10 @@ Stylish - Baidu MD V1
 
 百度太丑，辣眼睛。
 
-趁没事做。
 
 效果图：
 
-[![imgur](https://github.com/2317809130/stylish/raw/master/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)]()
+[![imgur](https://github.com/2317809130/stylish/blob/master/help/aftjpg.jpg)]()
 
 
 
