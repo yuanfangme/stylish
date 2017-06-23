@@ -11,7 +11,7 @@ Stylish - Baidu MD V1
 
 趁没事做。
 
-[![imgur](http://i.imgur.com/yblr3KO.gif)]()
+[![imgur](https://github.com/2317809130/stylish/raw/master/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)]()
 
 
 Chrome内核浏览器安装（Chrome 浏览器 | 搜狗，QQ，360 浏览器）
