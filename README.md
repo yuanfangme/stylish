@@ -11,7 +11,10 @@ Stylish - Baidu MD V1
 
 趁没事做。
 
+效果图：
+
 [![imgur](https://github.com/2317809130/stylish/raw/master/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)]()
+
 
 
 Chrome内核浏览器安装（Chrome 浏览器 | 搜狗，QQ，360 浏览器）
@@ -19,8 +22,9 @@ Chrome内核浏览器安装（Chrome 浏览器 | 搜狗，QQ，360 浏览器）
 
 1. 下载项目的zip文件，在右上方有个 `Download ZIP`, 解压到本地
 
-2. 把 .crx 文件鼠标右键拖进浏览器窗口，在弹出窗口选择 “安装” 即可完成！
+2. 把 .crx 文件鼠标右键拖进浏览器窗口，在弹出窗口选择 “ 安装 ” 即可完成！
 
+3.打开 https://userstyles.org/styles/144386/baidu-md ，点击 Install Style 即可
 
 更新日志
 -------
