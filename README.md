@@ -16,15 +16,19 @@ Stylish - Baidu MD V0.1.1
 
 
 
-Chrome内核浏览器安装（Chrome 浏览器 | 搜狗，QQ，360 浏览器）
+安装--Chrome内核浏览器（Chrome 浏览器 | 搜狗，QQ，360 浏览器）
 ----
 
-1. 下载项目文件，在右上方有个 `Download ZIP`, 解压到本地 
+1. 下载项目文件，在右上方有个 ` Download ZIP `, 解压到本地 
         （或下载：https://codeload.github.com/2317809130/stylish/zip/master  ）
 
 2. 把【  stylish-chrome-extensions-1.7.6.crx  】文件鼠标右键拖进浏览器窗口，在弹出窗口选择 “ 安装 ” 即可完成！
 
-3. 打开 https://userstyles.org/styles/144386/baidu-md ，点击  `Install Style` 即可
+3. 打开 https://userstyles.org/styles/144386/baidu-md ，点击  ` Install Style ` 即可
+
+手动更新
+----
+打开 https://userstyles.org/styles/144386/baidu-md ，（若有更新）点击  ` Update Style ` 即可
 
 更新日志
 -------
@@ -63,5 +67,5 @@ bug与建议
 
 ----
 
-帮助： https://github.com/2317809130/stylish/blob/master/help.md
-----
+帮助 及 其它说明： https://github.com/2317809130/stylish/blob/master/help.md
+
