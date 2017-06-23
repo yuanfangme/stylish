@@ -2,9 +2,13 @@
 ==========
 
 效果图：
+----
 before：
 [![imgur](https://github.com/2317809130/stylish/blob/master/help/befor.jpg)]()
+----
+after：
 [![imgur](https://github.com/2317809130/stylish/blob/master/help/aftjpg.jpg)]()
+
 
 一、安装浏览器拓展程序
 ----
