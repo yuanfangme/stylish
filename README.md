@@ -1,4 +1,4 @@
-Stylish - Baidu MD V0.1.1
+Stylish - Baidu MD V0.1.2 
 ==========
 (Chrome Extension | Material Design ）
 ----
